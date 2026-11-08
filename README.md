@@ -46,9 +46,6 @@ Suggested screenshot filenames:
 - `mission-06-git-github.png`
 - `github-repository.png`
 
-## Important Note
-
-Only genuine screenshots and files related to the completed project should be added here. The evidence folder will be updated as additional practical activities are completed.
 
 ## Conclusion
 
