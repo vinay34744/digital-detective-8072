@@ -70,6 +70,19 @@ Examples:
 - Learned the IPO cycle.
 - Explored operating system concepts.
 
+## 8. Everyday Systems (Computer-Based Systems)
+
+1. ATM (Automated Teller Machine):
+An ATM is a computer-based system that allows users to withdraw money. It takes input in the form of card information, PIN, and the required amount. It processes the information by checking the account balance and, if sufficient funds are available, provides the output as cash.
+
+2. Smart TV:
+A Smart TV is a computer-based system that provides digital media, entertainment, and broadcast video content. It takes input through a remote control or voice commands, processes the user's commands, and provides output through the displayed screen and speakers.
+
+3. Traffic Signal:
+A traffic signal is a computer-based system that controls the movement of vehicles and pedestrians to ensure road safety. It takes input from timers and sensors, processes the information, and provides output through coloured lights:
+- Green: Go.
+- Yellow: Slow down and prepare to stop.
+- Red: Stop.
 ## Learning Outcome
 Understood the basic architecture of a computer, its major hardware components, 
 different types of software, and how a computer processes and stores information.
