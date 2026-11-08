@@ -41,6 +41,7 @@ Suggested screenshot filenames:
 
 - `mission-00-setup.png`
 - `mission-02-terminal.png`
+- `mission-03-operating-system.png`
 - `mission-05-number-converter.png`
 - `mission-06-git-github.png`
 - `github-repository.png`
